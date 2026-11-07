@@ -10,4 +10,4 @@ Open `index.html` in a browser. The site has no build step or runtime dependency
 
 Create a public repository named `YOUR-USERNAME.github.io`, upload the contents of this folder, then enable Pages from the repository's Settings → Pages using the main branch and root folder. The resulting address will be `https://YOUR-USERNAME.github.io/`.
 
-The CV is in `assets/Noble-Iroh-CV.pdf`; replace it with an updated version using the same filename to keep the download link working.
+The CV is in `assets/Noble-Iroh-CV.pdf`; replace it with an updated version using the same filename to keep the CV link working. The CV opens in a new browser tab, where visitors can use the browser's download control.
