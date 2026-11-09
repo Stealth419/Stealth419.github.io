@@ -4,6 +4,6 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important}}
 .education-list{display:grid;gap:10px}
 @media(min-width:851px){body{font-size:16px}.topbar nav{font-size:13px}.top-contact,.text-link{font-size:13px}.intro{font-size:16px}.role-line{font-size:14px}.section-label{font-size:11px}.section-kicker{font-size:11px}.about-columns p{font-size:15px}.skill-tags span{font-size:11px}.timeline-date{font-size:10px}.job-summary,.timeline-content li{font-size:14px}.confidential-note{font-size:11px}.achievement{font-size:12px}.credential-type{font-size:9px}.credential-card>span:nth-of-type(2){font-size:12px}.education-strip>div>span:last-child{font-size:11px}.footer-links{font-size:11px}}
-@media(max-width:620px){.ticker-track{width:max-content;min-width:0;justify-content:flex-start;gap:0;animation:ticker-scroll 28s linear infinite}.ticker-track>*{flex-shrink:0;margin-right:24px;white-space:nowrap}}
+.ticker-track{width:max-content;min-width:0;justify-content:flex-start;gap:0;animation:ticker-scroll 32s linear infinite}.ticker-track>*{flex-shrink:0;margin-right:24px;white-space:nowrap}
 @keyframes ticker-scroll{to{transform:translateX(-50%)}}
 @media(prefers-reduced-motion:reduce){.ticker{overflow-x:auto}.ticker-track{width:max-content;animation:none!important}}
